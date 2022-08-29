@@ -1,0 +1,31 @@
+<!--Assignment #: InClass04
+    File Name: Group25_InClass04 strings.xml
+    Name: Kristin Pflug-->
+
+<resources>
+    <string name="app_name">Group25_InClass04</string>
+    <string name="login_fragment_title">Login</string>
+    <string name="login_button_label">Login</string>
+    <string name="create_account_button_label">Create New Account</string>
+    <string name="email_textbox_hint">Email</string>
+    <string name="password_textbox_hint">Password</string>
+
+    <string name="name_not_entered_toast">Please enter a name</string>
+    <string name="email_not_entered_toast">Please enter an email address</string>
+    <string name="password_not_entered_toast">Please enter a password</string>
+    <string name="login_not_successful_toast">Login attempt not successful, please try again</string>
+    <string name="registration_not_successful_toast">Failed to create account, please try again</string>
+    <string name="update_not_successful_toast">Unable to update account information, please try again</string>
+
+    <string name="account_fragment_title">Account</string>
+    <string name="account_name_display_text"></string>
+    <string name="account_welcome_text">Welcome !!</string>
+    <string name="account_edit_profile_button_label">Edit Profile</string>
+    <string name="account_log_out_button_label">Log Out</string>
+
+    <string name="register_fragment_title">Register Account</string>
+    <string name="update_fragment_title">Update Account</string>
+    <string name="name_textbox_hint">Name</string>
+    <string name="update_submit_button_label">Submit</string>
+    <string name="update_cancel_button_label">Cancel</string>
+</resources>
